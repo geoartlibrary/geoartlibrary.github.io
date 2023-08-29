@@ -100,12 +100,36 @@ ul{
 
 }
 
-.buscador{
-		display: flex;
-		margin: 20px;
-
-
+.live-filter{
+  display: flex;
+  border-radius: 20px;
+  margin: 10px;
+  background-color: #EDBB99;
+	font-family: 'Public Sans', sans-serif;
+   font-family: 'Roboto', sans-serif;
+   justify-content: center;
+   align-items: center;
 }
+.search{
+  background-color: #EDBB99;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  padding: 10px;
+  color: #fff;
+  font-size: 21px;
+  font-family: 'Public Sans', sans-serif;
+   font-family: 'Roboto', sans-serif;
+}
+.search input{
+	width: 450px;
+	border: none;
+}
+
+
+.filtro{
+	display: none;
+}
+
 
 .libreria {
 	display: flex;
