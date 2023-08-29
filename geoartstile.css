@@ -302,3 +302,7 @@ ul{
 		
 		
 }
+.search input{
+	width: 200px;
+	border: none;
+}
