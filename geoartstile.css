@@ -293,6 +293,11 @@ ul{
 	align-items: center
 }
 
+Instagram-logo {
+	display: flex;
+	align-items: center
+}
+
 
 @media only screen and ( max-width: 800px)  /* reponsive */
 {
