@@ -310,6 +310,16 @@ ul{
 	align-items: center
 }
 
+.contador{
+	display: flex;
+	margin: 15px;
+
+
+	font-family: 'Public Sans', sans-serif;
+   font-family: 'Roboto', sans-serif;
+   justify-content: center;
+   align-items: center;
+	 }
 
 @media only screen and ( max-width: 800px)  /* reponsive */
 {
