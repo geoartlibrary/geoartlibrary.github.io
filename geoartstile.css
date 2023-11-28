@@ -293,7 +293,19 @@ ul{
 	align-items: center
 }
 
-Instagram-logo {
+.paginas-Instagram {
+	display: flex;
+	margin: 15px;
+
+
+	font-family: 'Public Sans', sans-serif;
+   font-family: 'Roboto', sans-serif;
+   justify-content: center;
+   align-items: center;
+}
+
+
+.Instagram-logo {
 	display: flex;
 	align-items: center
 }
