@@ -326,10 +326,15 @@ ul{
 	.libreria {
 		font-size: 5px;
 		width: 310px
+
 		
 		
 }
 .search input{
 	width: 200px;
 	border: none;
+}
+.head { font-size: 10px;
+
+
 }
