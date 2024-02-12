@@ -7,11 +7,13 @@ a{
 	text-decoration: none;
 	text-shadow: none;
 	box-shadow: none;
+        color:black
+	
 }
 
 ul{
 	line-height: 2;
-	color:black
+
 
 }
 .head {
